@@ -1,0 +1,26 @@
+body{
+    background-color: azure;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+svg{
+    
+    background-color: rgb(172, 199, 199);
+    border-radius: 20px;
+}
+#tooltip{
+    visibility: hidden;
+    height: auto;
+    width: auto;
+}
+
+#legend{
+    
+    
+    width: 400px;
+    height: 40px;
+    margin: auto;
+}
